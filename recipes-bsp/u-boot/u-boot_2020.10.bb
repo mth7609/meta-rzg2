@@ -8,6 +8,7 @@ UBOOT_URL = "https://github.com/mth7609/renesas-u-boot-cip.git"
 BRANCH = "v2020.10/rzg2l"
 # SRCREV = "0767c36bea79f82c27e4efd3f3d11670c81741b0"
 SRCREV = "1"
+SRC_URI[sha256sum] = "a317ece7c18d83011e99672975e9ad2d6d8f2a133984ba641d3c663304416004"
 
 # When using private git repo, you can append ";user=username:password" to SRC_URI
 # to download the remote repo.
